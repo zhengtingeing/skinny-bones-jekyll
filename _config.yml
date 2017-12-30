@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title: "将解决你的不解做为好好学习的动力"
+description: "在学习的过程中要发现学习的快乐。"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
+locale: zh_TW #本地化翻译
 url:
 feed:
   path: atom.xml
@@ -26,13 +26,13 @@ gems:
 
 # Site owner
 owner:
-  name:
+  name:zheng
   email:
   twitter:
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio:"郑婷婷，学生"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
