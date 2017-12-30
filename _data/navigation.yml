@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Teaching 教學Learning 学习
+  url: /learning/
+  excerpt: "含体验式学习和理论学习"
+  image: 300x200.gif
+
+- title: Note 学习笔记
+  url: /note/
+  excerpt: "含信息可视化及网页设计"
+  image: 300x200.gif
+
+- title: Out class 课堂之外
+  url: /out class/
+  excerpt: "课外日常疯癫和肝作业"
+  image: 300x200.gif
+
+- title: Contact 聯絡我
+  url: /contact/
+  excerpt: "联络我"
+  image: 300x200.gif 
