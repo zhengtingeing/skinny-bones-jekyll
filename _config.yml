@@ -30,9 +30,6 @@ owner:
   email:1092419259@qq.com
   twitter:zheng 
   bio:"郑婷婷，学生"
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
-
 
 include:
   - .htaccess
