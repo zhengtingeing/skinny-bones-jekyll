@@ -12,12 +12,10 @@ image:
 
 ---
 在此展示网页设计与制作内容简绍及思考 
-<div class="tiles"> 
- 
-{% for post in site.categories.SDG %} 
- 
-  {% include post-grid.html %} 
- 
-{% endfor %} 
- 
-</div><!-- /.tiles 把所有categories 有 webbiji 的列出来--> 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
