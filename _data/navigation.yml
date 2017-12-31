@@ -11,12 +11,12 @@
   image: ed5191aced14cc7cb4ceb80a2a79df71.gif
 
 - title: 文章（信息可视化分类）
-  url: /posts/infovis/
+  url: /_posts/infovis/
   excerpt: "课外日常疯癫和肝作业"
   image: fbcecc65fa52766ad454867884acabff.gif
  
 - title: 文章（网页设计分类）
-  url: /posts/rwb/
+  url: /_posts/rwb/
   excerpt: "没有日常疯癫只有肝作业"
   image: a5422801b929aee5e848a3e768307a27.gif
 
