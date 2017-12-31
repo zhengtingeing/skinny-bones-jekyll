@@ -1,21 +1,27 @@
 # Site navigation links
 
-- title: Learning 学习
-  url: /learning/
-  excerpt: "含体验式学习和理论学习"
-  image: 300x200.gif
+- title: Learning 信息可视化作品集
+  url: /infovis/
+  excerpt: "这个学期的可视化作品"
+  image: 9099a173546314c1a0e299514bec9333.gif
 
-- title: Note 学习笔记
-  url: /note/
-  excerpt: "含信息可视化及网页设计"
-  image: 300x200.gif
+- title: Works 作品集
+  url: /portfolio/
+  excerpt: "含信息可视化及网页设计的作品"
+  image: ed5191aced14cc7cb4ceb80a2a79df71.gif
 
-- title: Out class 课堂之外
-  url: /out class/
+- title: 文章（信息可视化分类）
+  url: /posts/infovis/
   excerpt: "课外日常疯癫和肝作业"
-  image: 300x200.gif
+  image: fbcecc65fa52766ad454867884acabff.gif
+ 
+- title: 文章（网页设计分类）
+  url: /posts/rwb/
+  excerpt: "没有日常疯癫只有肝作业"
+  image: a5422801b929aee5e848a3e768307a27.gif
 
 - title: Contact 聯絡我
   url: /contact/
-  excerpt: "联络我"
-  image: 300x200.gif 
+  excerpt: "不要联络我"
+  image: b64c3b312eb5b648e45a97b173525ad7.gif
+  
