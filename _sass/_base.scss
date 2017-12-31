@@ -9,6 +9,9 @@
 body {
 	font-family: $base-font;
 	color: $text-color;
+	background-image: 
+       linear-gradient(rgba(240, 248, 255, 0.9), rgba(240, 248, 255, 0.7)),  
+       url('https://zhengtingeing.github.io/images/zzz.jpg'); 
 	@include font-size(16);
 }
 
