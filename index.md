@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "秃头日记"
+title: "佛系青年奋斗记"
 ---
 
 <div class="tiles">
