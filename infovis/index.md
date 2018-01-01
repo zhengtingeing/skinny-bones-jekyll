@@ -8,7 +8,7 @@ image:
  ---
  在此展示可视化作品
 <div class="tiles">
-{% for post in site.categories.infovis%}
+{% for post in site.categories.ins%}
   {% include post-grid.html %}
 {% endfor %}
 </div>
