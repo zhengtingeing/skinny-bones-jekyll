@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "如何用Tebleau"
-date:   2017-1-1 15:07:50 +0800
+date:   2018-1-1 15:07:50 +0800
 categories: infovis
 image:
   teaser: mnm.png
