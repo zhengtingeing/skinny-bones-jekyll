@@ -4,8 +4,8 @@ title:  "如何用Tebleau"
 date:   2018-1-1 15:07:50 +0800
 categories: infovis
 image:
-  teaser: mnm.png
-  feature: mnm.png
+  teaser: tebleau.png
+  feature: tebleau.png
 ---
 
 # Tableau Desktop
