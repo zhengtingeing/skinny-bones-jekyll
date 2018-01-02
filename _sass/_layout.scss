@@ -71,14 +71,14 @@
 			}
 			&:after {
 				width: 0;
-				background: $Steelblue;
+				background: $SteelBlue;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
 			}
 			&:hover {
-			    color: $Steelblue;
+			    color: $SteelBlue;
 			}
 		}
 	}
