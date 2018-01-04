@@ -6,6 +6,7 @@ categories: infovis
 image:
   teaser: tebleau.png
   feature: tebleau.png
+excerpt: tebleau是个很高效的画图表的工具，我们在这篇文章里看看它有什么特别之处吧。
 ---
 
 # Tableau Desktop

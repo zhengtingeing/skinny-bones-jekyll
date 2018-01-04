@@ -3,25 +3,25 @@
 - title: Learning 信息可视化作品集
   url: /infovis/
   excerpt: "这个学期的可视化作品"
-  image: 123.gif
+  image: learning.gif
 
 - title: Works 作品集
   url: /portfolio/
   excerpt: "含信息可视化及网页设计的作品"
-  image: 456.gif
+  image: works.gif
 
 - title: 文章（信息可视化分类）
   url: /posts/infovis/
   excerpt: "课外日常疯癫和肝作业"
-  image: 345.gif
+  image: infovis.gif
  
 - title: 文章（网页设计分类）
   url: /posts/rwd/
   excerpt: "没有日常疯癫只有肝作业"
-  image: 234.gif
+  image: rwd.gif
 
 - title: Contact 聯絡我
   url: /contact/
   excerpt: "不要联络我"
-  image: b64c3b312eb5b648e45a97b173525ad7.gif
+  image: persent.gif
   
