@@ -22,5 +22,5 @@ excerpt: tebleau是个很高效的画图表的工具，我们在这篇文章里�
 几分钟内完成下载。快速入门。
 ## 参考来源 
  
-+* [Tableau地图入门指南](http://onlinehelp.tableau.com/current/pro/desktop/zh-cn/help.htm#buildexamples_maps.html%3FTocPath%3D%25E8%25AE%25BE%25E8%25AE%25A1%25E8%25A7%2586%25E5%259B%25BE%25E5%2592%258C%25E5%2588%2586%25E6%259E%2590%25E6%2595%25B0%25E6%258D%25AE%7C%25E7%2594%259F%25E6%2588%2590%25E5%2592%258C%25E4%25BD%25BF%25E7%2594%25A8%25E5%259C%25B0%25E5%259B%25BE%7C_____1) 
+[Tableau地图入门指南](http://onlinehelp.tableau.com/current/pro/desktop/zh-cn/help.htm#buildexamples_maps.html%3FTocPath%3D%25E8%25AE%25BE%25E8%25AE%25A1%25E8%25A7%2586%25E5%259B%25BE%25E5%2592%258C%25E5%2588%2586%25E6%259E%2590%25E6%2595%25B0%25E6%258D%25AE%7C%25E7%2594%259F%25E6%2588%2590%25E5%2592%258C%25E4%25BD%25BF%25E7%2594%25A8%25E5%259C%25B0%25E5%259B%25BE%7C_____1) 
  
