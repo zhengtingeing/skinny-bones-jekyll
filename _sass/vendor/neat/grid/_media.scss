@@ -11,7 +11,6 @@
   @else {
     $loopTo: length($query);
 	$mediaQuery: 'print, screen and '; 
-    $mediaQuery: 'screen and ';
     $default-grid-columns: $grid-columns;
     $grid-columns: $total-columns !global;
 
