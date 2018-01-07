@@ -10,7 +10,7 @@ image:
   teaser:
 ---
 
-- < a href="https://public.tableau.com/views/1_5282/1_1?:embed=y&:display_count=yes" target="_blank">![数据分析.png](https://zhengtingeing.github.io/images/public.png)</ a>
+- <a href="https://public.tableau.com/views/1_5282/1_1?:embed=y&:display_count=yes" target="_blank">![数据分析.png](https://zhengtingeing.github.io/images/public.png)</a>
 
 
 
