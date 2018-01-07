@@ -10,8 +10,11 @@ image:
   teaser:
 ---
 
-- < a href="https://public.tableau.com/views/1_5282/1_1?:embed=y&:display_count=yes" target="_blank">![数据分析.jpg](https://zhengtingeing.github.io/images/public.png)</ a>
+- < a href="https://public.tableau.com/views/1_5282/1_1?:embed=y&:display_count=yes" target="_blank">![数据分析.png](https://zhengtingeing.github.io/images/public.png)</ a>
 
+
+
+其他作品
 <div class="tiles">
 {% for post in site.categories.kawa%}
   {% include post-grid.html %}
